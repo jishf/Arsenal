@@ -36,6 +36,7 @@
     "hdclient": "scality/hdclient#1.1.5",
     "httpagent": "scality/httpagent#1.0.6",
     "https-proxy-agent": "^2.2.0",
+    "ionburst-sdk-javascript": "1.2.0-develop.1",
     "ioredis": "^4.28.5",
     "ipaddr.js": "1.9.1",
     "joi": "^17.6.0",
